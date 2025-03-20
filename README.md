@@ -90,7 +90,7 @@ python ensemble_masks.py
 ## Citation
 If you find this work or code is helpful in your research, please cite:
 ````
-@article{Chowdhury2025FootSegONN,
+@article{sumon2025FootSegONN,
   author    = {Md. Shaheenur Islam Sumony and Muhammad E. H. Chowdhur  and Saadia Binte Alam and Rashedur Rahman and Rusab Sermun and Md Mezbah Ahmed Mahedi and Zaid Bin Mahbub and Rumana Habib},
   title     = {FootSegONN: An Ensemble of Self-ONN-based Models for Diabetic Foot Ulcer Segmentation},
   journal   = {Neural Computing and Applications},
