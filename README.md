@@ -5,6 +5,42 @@ FootSegONN is an ensemble deep learning model utilizing Self-ONN architectures f
 
 ---
 
+
+# Examples
+<div align=center>
+
+![](images/example_img2.png)
+
+</div>
+
+
+## 📂 Project Structure  
+
+```plaintext
+FootsegONN/
+│
+├── input/
+│   └── ...                  # Contains input data or related files
+│
+├── models/
+│   └── ...                  # Contains model architectures and related scripts
+│
+├── save_masks/
+│   └── ...                  # Directory for saving generated masks
+│
+├── README.md                # Project documentation and overview
+├── SelfONN.py               # Implementation of Self-ONN architectures
+├── SelfONN_decoders.py      # Decoders for Self-ONN models
+├── ensemble_masks.py        # Script for ensemble mask generation
+├── inference.ipynb          # Jupyter notebook for inference
+├── models.py                # Script defining model architectures
+├── prediction_masks.py      # Script for generating prediction masks
+├── requirements.txt         # List of required Python packages
+└── selfonnlayer.py          # Implementation of Self-ONN layers
+
+
+```
+
 ## 🚀 Installation Guide
 
 ### **1️⃣ Recommended Environment**
@@ -15,7 +51,12 @@ FootSegONN is an ensemble deep learning model utilizing Self-ONN architectures f
 ### **2️⃣ Setup Instructions**
 Follow these steps to install and set up the environment:
 
+
+
 #### **Step 1: Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/FootSegONN.git
+git clone https://github.com/sumon3255/FootsegONN.git
 cd FootSegONN
+
+
+```
