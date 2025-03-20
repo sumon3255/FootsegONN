@@ -9,7 +9,7 @@ FootSegONN is an ensemble deep learning model utilizing Self-ONN architectures f
 # Examples
 <div align=center>
 
-![](images/example_img2.png)
+![](footsegmentex.png)
 
 </div>
 
